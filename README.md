@@ -15,4 +15,4 @@ In the meantime, you can install this service by grabbing the compiled artifacts
 
 A future version of this product takes advantage of various browsers. This version is our early v1.0 release and only uses chrome. Please make sure chrome is installed to leverage this tool.
 
-If you have any issues, questions, or comments feel free to contact me on twitter. @turingnerd.
+If you have any issues, questions, or comments feel free to contact me on twitter, or file an issue. @turingnerd.
