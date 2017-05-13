@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yuyfcrhjgvvc9og9/branch/master?svg=true)](https://ci.appveyor.com/project/theturingnerd/walktheinterwebs/branch/master)
+
+
 # HTTP/HTTPS Traffic Generation - Range Tool
 
 This tool will allow you to install a service which generates very realistic browsing traffic for a range. We use this tool to generate cover traffic and simulate a user's browsing behavior.
